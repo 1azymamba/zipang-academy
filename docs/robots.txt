@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://1azymamba.github.io/zipang-academy/sitemap.xml
